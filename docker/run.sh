@@ -9,5 +9,5 @@ docker run \
 	-p 7180:7180 \
 	-p 80:80 \
 	-v $(pwd)/..:/workspace \
-	ishugaepov/mlbd \
+	voudy/mlbd \
 	/usr/bin/docker-quickstart
